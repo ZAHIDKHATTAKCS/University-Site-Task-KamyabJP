@@ -1,0 +1,140 @@
+#img1{
+	border:2px solid blue;
+}
+#img2{
+	border:2px solid blue;
+}
+nav{
+	border:2px solid blue;
+	width: 900px;
+}
+nav ul{
+	padding-top: 10px;
+}
+nav ul li{
+	display: inline;
+	padding: 2px;
+
+}
+nav ul li a{
+	color: black;
+}
+nav ul li a:hover{
+	text-decoration: none;
+
+}
+#Searchbutton{
+	width: 60px;
+	height: 25px;
+	font-size: 15px;
+	padding:0px;
+}
+#Searchbutton:hover{
+	color: black;
+}
+#sidebar1{
+	border:2px solid blue;
+	padding-top: 50px;
+	width: 130px;
+	height: 500px;
+	margin-left: 115px;
+}
+#img3{
+	width: 100px;
+	height: 100px;
+}
+#img4{
+	width: 100px;
+	height: 100px;
+}
+#img5{
+	width: 100px;
+	height: 100px;
+}
+#marquee{
+	border-bottom: 1px solid black;
+	width: 250px;
+	height: 205px;
+	border-right: 1px solid black;
+}
+
+#marquee a{
+	color: black;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: justify;
+}
+#marqueetag{
+	width: 222px;
+	height: 150px;
+}
+#newsbtn{
+	color: #4c883d;
+	border: none;
+	padding: 0px;
+	font-size: 20px;
+	float: right;
+}
+#newsbtn:hover{
+	text-decoration: none;
+}
+#table2{
+	
+	padding: 0px;
+	font-family: sans-serif;
+
+}
+ 
+#div3{
+	width: 50px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding:0px 0px 0px 0px;
+
+} 
+
+#links2 h6{
+	background-color:#5dc9e1; 
+	width: 320px;
+}
+#links2 h6 a{
+	color: white;
+	width: 100px;
+	text-decoration:none;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+#links2 h6 a:hover{
+	color: black;
+}
+#nesteddiv{
+	width: 265px;
+	height: 265px;
+	margin-right: 0px;
+	border-right: 1px solid black;
+}
+#nesteddivlinks a{
+	color: black;
+	text-decoration: none;
+}
+#new{
+	width: 20px;
+	height: 20px;
+}
+#new2{
+	width: 10px;
+	height: 15px;
+}
+#lastsidebar {
+	float: right;
+	width: 150px;
+	color: white;
+	font-size: 13px;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+#lastsidebar a{
+	color: black;
+}
